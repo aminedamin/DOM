@@ -1,0 +1,45 @@
+*{
+    background-color:gainsboro;
+}
+.block{
+    display: flex;
+    justify-content:space-around;
+}
+section{
+    display: flex;
+}
+h1 {
+    text-align: center;
+}
+.box {
+    background-color: beige;
+    border: 3px solid burlywood;
+    box-shadow: 2px 0.5px gray;
+
+}
+.box img {
+    width: 250px;
+
+}
+ h4,p,h5{
+    text-align: center;
+}
+button,span {
+    text-align: center;
+    
+}
+.box button i {
+    font-size: 30px;
+    
+}
+.box button {
+    padding-left: 95px;
+
+}
+.box i {
+    font-size: 30px;
+    text-align: center;
+}
+.hear{
+    color: red;
+}
